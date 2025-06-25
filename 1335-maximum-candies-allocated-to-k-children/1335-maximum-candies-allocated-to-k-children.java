@@ -1,32 +1,35 @@
 class Solution {
-    public int maximumCandies(int[] candies, long k) {
-        long sum = 0;
-        for (int candy : candies) {
-            sum += candy;
+    public int maximumCandies(int[] arr, long k) {
+        int max = 0;
+        int left = 1;
+        for (int i : arr) {
+            max = Math.max(i, max);
         }
-        if (sum < k) return 0;
-        
-        long left = 1;
-        long right = sum / k;
-        int result = 0;
-        
+
+        int right = max;
+        int low = 1;
+        int ans = 0;
         while (left <= right) {
-            long mid = left + (right - left) / 2;
-            long total = 0;
-            
-            for (int candy : candies) {
-                total += candy / mid;
-                if (total >= k) break; // Early exit to optimize
-            }
-            
-            if (total >= k) {
-                result = (int) mid;
+            int mid = (left + right) / 2;
+
+            if (isVal(mid, k, arr)) {
                 left = mid + 1;
+                ans = mid;
             } else {
                 right = mid - 1;
             }
         }
-        
-        return result;
+        return ans;
     }
+
+    public static boolean isVal(int mid, long k, int[] arr) {
+
+        long sum = 0;
+        for (int num : arr) {
+            sum += num / mid;
+        }
+        return sum >= k;
+
+    }
+
 }
