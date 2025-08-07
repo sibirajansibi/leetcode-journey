@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0886-score-of-parentheses) |
 ## Database
 |  |
@@ -147,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
