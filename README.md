@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0216-combination-sum-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0216-combination-sum-iii) |
 ## Linked List
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sibirajansibi/leetcode-journey/tree/master/0459-repeated-substring-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
