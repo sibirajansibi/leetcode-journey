@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
