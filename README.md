@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
