@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/sibirajansibi/leetcode-journey/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/sibirajansibi/leetcode-journey/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0886-score-of-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0886-score-of-parentheses) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
 ## Sorting
