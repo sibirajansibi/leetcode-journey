@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/sibirajansibi/leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
