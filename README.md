@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/sibirajansibi/leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
