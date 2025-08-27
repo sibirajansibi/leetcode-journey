@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
