@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/sibirajansibi/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
