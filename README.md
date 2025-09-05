@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0228-summary-ranges) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
