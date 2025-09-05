@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sibirajansibi/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0886-score-of-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Database
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sibirajansibi/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
