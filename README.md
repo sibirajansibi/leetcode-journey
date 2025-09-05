@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0228-summary-ranges) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/sibirajansibi/leetcode-journey/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/sibirajansibi/leetcode-journey/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
