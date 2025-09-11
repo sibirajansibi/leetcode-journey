@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/sibirajansibi/leetcode-journey/tree/master/0575-distribute-candies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/sibirajansibi/leetcode-journey/tree/master/0575-distribute-candies) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
 ## Segment Tree
 |  |
@@ -250,4 +254,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
