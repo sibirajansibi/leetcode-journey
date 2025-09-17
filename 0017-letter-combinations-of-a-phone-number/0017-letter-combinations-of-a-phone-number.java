@@ -23,16 +23,14 @@ class Solution {
     }
 
     public static void solver(int start, String s, List<String> result, StringBuilder sb) {
-
         if (start == s.length()) {
             result.add(sb.toString());
             return;
         }
-        String possible = phoneMap.get(s.charAt(start));
-
+        String possible = phoneMap.get(s.charAt(start)); 
         for (char c : possible.toCharArray()) {
-            sb.append(c);
-            solver(start + 1, s, result, sb);
+            sb.append(c);//a 
+            solver(start + 1, s, result, sb);// 
             sb.deleteCharAt(sb.length() - 1);
         }
     }
