@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
