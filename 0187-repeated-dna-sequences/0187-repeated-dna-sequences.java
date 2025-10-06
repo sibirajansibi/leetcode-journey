@@ -3,7 +3,7 @@ class Solution {
         HashMap<String,Integer> map = new HashMap<>();
 
         int k = 10;
-        for (int i = 0; i <= s.length() - k; i++) {
+        for (int i = 0; i <s.length() - k+1; i++) {
             String v = s.substring(i, i + k);
             map.put(v , map.getOrDefault(v,0)+1);
         }
