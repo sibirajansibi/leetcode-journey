@@ -15,13 +15,12 @@ class Solution {
     }
     
     private boolean isBalanced(int[] freq) {
-        int val = 0;
-        for (int count : freq) {
-            if (count > 0) {
-                if (val == 0) val = count;
-                else if (count != val) return false;
-            }
+        HashSet<Integer> set = new HashSet<>();
+        for(int num : freq){
+            if( num ==0) continue;
+            set.add(num);
         }
-        return val != 0;
+        
+        return set.size()==1;
     }
 }
