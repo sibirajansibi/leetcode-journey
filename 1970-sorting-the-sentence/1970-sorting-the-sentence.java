@@ -3,9 +3,10 @@ class Solution {
         TreeMap<Integer,String> map = new TreeMap<>();
 StringBuilder sb = new StringBuilder();
         String[] srr = s.split("\\s+");
+     
         for(int i =0;i<srr.length;i++){
             String v = srr[i];
-            int key = (int) (v.charAt(v.length()-1));
+            int key = Integer.valueOf(v.charAt(v.length()-1));
                v = v.substring(0,v.length()-1);
             map.put(key,v);
         }
