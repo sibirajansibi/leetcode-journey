@@ -1,19 +1,17 @@
 class Solution {
     public String sortSentence(String s) {
-        TreeMap<Integer,String> map = new TreeMap<>();
-StringBuilder sb = new StringBuilder();
-        String[] srr = s.split("\\s+");
-        for(int i =0;i<srr.length;i++){
-            String v = srr[i];
-            int key = (int) (v.charAt(v.length()-1));
-               v = v.substring(0,v.length()-1);
-            map.put(key,v);
+        String[] arr = s.split("\\s+");
+        
+        Arrays.sort(arr , (a, b)-> a.charAt(a.length()-1) - b.charAt(b.length()-1));
+        for(int i=0;i<arr.length;i++){
+            String v  = arr[i];
+            arr[i] = v.substring(0, v.length()-1);
         }
-        System.out.print(map);
+        StringBuilder sb = new StringBuilder();
+        for(String  sv : arr){
+            sb.append(sv+" ");
+        }
 
-        for(String  ss : map.values()){
-sb.append(ss+" ");
-        }
         return sb.toString().trim();
     }
 }
