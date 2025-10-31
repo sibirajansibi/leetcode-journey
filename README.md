@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4055-longest-balanced-substring-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/4055-longest-balanced-substring-i) |
 ## String
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/2238-a-number-after-a-double-reversal) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/sibirajansibi/leetcode-journey/tree/master/3830-find-closest-person) |
 ## String Matching
 |  |
