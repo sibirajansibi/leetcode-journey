@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/sibirajansibi/leetcode-journey/tree/master/0575-distribute-candies) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
+| [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 ## Monotonic Stack
