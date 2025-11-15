@@ -1,17 +1,17 @@
 class Solution {
-    static boolean[][] visited;
+
     
     public int shortestBridge(int[][] grid) {
 
               int n = grid.length;
               int m = grid[0].length;
-          visited = new boolean[n][m];
+          
           boolean flag = false;
     int[][] Directions = { { 0, 1 }, { 0, -1 }, { -1, 0 }, { 1, 0 } };
       Queue<int[]> q = new LinkedList<>();
            for(int i =0;i<n && !flag;i++){
                for(int j = 0;j<m && !flag;j++){
-                 if(!visited[i][j]&& grid[i][j] == 1){
+                 if(grid[i][j] != 5&& grid[i][j] == 1){
                     dfs(grid , i , j, q);
                     flag = true;
                  }
@@ -30,11 +30,11 @@ class Solution {
                         continue;
                      }
 
-                     if(grid[nR][nC]== 1 &&  !visited[nR][nC]){
+                     if(grid[nR][nC]== 1 && grid[nR][nC]!=5){
                         return count;
                      }
-                    if(grid[nR][nC]== 0 && !visited[nR][nC]){
-                        visited[nR][nC] = true;
+                    if(grid[nR][nC]== 0 && grid[nR][nC]!=5){
+                        grid[nR][nC] = 5;
                         q.offer(new int[]{nR, nC});
                     }
                 }
@@ -46,10 +46,10 @@ class Solution {
     }
 
     public static void dfs(int[][] grid , int i , int j, Queue<int[]> q){
-        if(i<0||j<0||i>= grid.length||j>=grid[0].length||grid[i][j]==0||visited[i][j]){
+        if(i<0||j<0||i>= grid.length||j>=grid[0].length||grid[i][j]==0||grid[i][j] == 5){
             return;
         }
-        visited[i][j] = true;
+        grid[i][j] = 5;
         q.offer(new int[]{i , j});
         dfs(grid , i+1, j , q);
         dfs(grid , i-1, j , q);
