@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4055-longest-balanced-substring-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/4055-longest-balanced-substring-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1970-sorting-the-sentence](https://github.com/sibirajansibi/leetcode-journey/tree/master/1970-sorting-the-sentence) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 ## Segment Tree
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
