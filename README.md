@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/sibirajansibi/leetcode-journey/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4055-longest-balanced-substring-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/4055-longest-balanced-substring-i) |
 ## String
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
+| [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -369,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
+| [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 <!---LeetCode Topics End-->
