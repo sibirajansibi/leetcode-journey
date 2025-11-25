@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1138-grumpy-bookstore-owner](https://github.com/sibirajansibi/leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
@@ -373,5 +375,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 <!---LeetCode Topics End-->
