@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
+| [0948-bag-of-tokens](https://github.com/sibirajansibi/leetcode-journey/tree/master/0948-bag-of-tokens) |
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/sibirajansibi/leetcode-journey/tree/master/0948-bag-of-tokens) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/sibirajansibi/leetcode-journey/tree/master/0948-bag-of-tokens) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Sorting
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/sibirajansibi/leetcode-journey/tree/master/0948-bag-of-tokens) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1970-sorting-the-sentence](https://github.com/sibirajansibi/leetcode-journey/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
