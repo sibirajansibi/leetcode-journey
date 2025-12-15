@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sibirajansibi/leetcode-journey/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/2238-a-number-after-a-double-reversal) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
