@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/sibirajansibi/leetcode-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1678-goal-parser-interpretation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1970-sorting-the-sentence](https://github.com/sibirajansibi/leetcode-journey/tree/master/1970-sorting-the-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
