@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1138-grumpy-bookstore-owner](https://github.com/sibirajansibi/leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
