@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/2238-a-number-after-a-double-reversal) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2544-alternating-digit-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/2544-alternating-digit-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/sibirajansibi/leetcode-journey/tree/master/3830-find-closest-person) |
