@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/sibirajansibi/leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sibirajansibi/leetcode-journey/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/sibirajansibi/leetcode-journey/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
+| [1390-four-divisors](https://github.com/sibirajansibi/leetcode-journey/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/2238-a-number-after-a-double-reversal) |
