@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -406,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 <!---LeetCode Topics End-->
