@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [1603-design-parking-system](https://github.com/sibirajansibi/leetcode-journey/tree/master/1603-design-parking-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sibirajansibi/leetcode-journey/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/sibirajansibi/leetcode-journey/tree/master/1603-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0816-design-hashset) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1603-design-parking-system](https://github.com/sibirajansibi/leetcode-journey/tree/master/1603-design-parking-system) |
 ## Breadth-First Search
 |  |
 | ------- |
