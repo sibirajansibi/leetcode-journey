@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/sibirajansibi/leetcode-journey/tree/master/0061-rotate-list) |
 | [0705-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0705-design-hashset) |
 | [0816-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0816-design-hashset) |
 ## Recursion
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sibirajansibi/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/sibirajansibi/leetcode-journey/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sibirajansibi/leetcode-journey/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
