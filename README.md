@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
