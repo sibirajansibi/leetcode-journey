@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/sibirajansibi/leetcode-journey/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0040-combination-sum-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0792-binary-search) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sibirajansibi/leetcode-journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
