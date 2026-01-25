@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sibirajansibi/leetcode-journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/sibirajansibi/leetcode-journey/tree/master/0402-remove-k-digits) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sibirajansibi/leetcode-journey/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
