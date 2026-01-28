@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sibirajansibi/leetcode-journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0078-subsets) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sibirajansibi/leetcode-journey/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
