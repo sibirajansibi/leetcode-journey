@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sibirajansibi/leetcode-journey/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3617-find-the-original-typed-string-i) |
+| [3794-reverse-string-prefix](https://github.com/sibirajansibi/leetcode-journey/tree/master/3794-reverse-string-prefix) |
 | [4055-longest-balanced-substring-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/4055-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/sibirajansibi/leetcode-journey/tree/master/0948-bag-of-tokens) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [3794-reverse-string-prefix](https://github.com/sibirajansibi/leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
