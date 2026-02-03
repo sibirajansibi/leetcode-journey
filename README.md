@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sibirajansibi/leetcode-journey/tree/master/0274-h-index) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sibirajansibi/leetcode-journey/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
 | [1390-four-divisors](https://github.com/sibirajansibi/leetcode-journey/tree/master/1390-four-divisors) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sibirajansibi/leetcode-journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [4055-longest-balanced-substring-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/4055-longest-balanced-substring-i) |
 ## Design
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sibirajansibi/leetcode-journey/tree/master/0274-h-index) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
