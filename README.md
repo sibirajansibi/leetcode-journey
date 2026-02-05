@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [1845-seat-reservation-manager](https://github.com/sibirajansibi/leetcode-journey/tree/master/1845-seat-reservation-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/sibirajansibi/leetcode-journey/tree/master/1603-design-parking-system) |
+| [1845-seat-reservation-manager](https://github.com/sibirajansibi/leetcode-journey/tree/master/1845-seat-reservation-manager) |
 ## Breadth-First Search
 |  |
 | ------- |
