@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3719-longest-balanced-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sibirajansibi/leetcode-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3719-longest-balanced-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3719-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/4055-longest-balanced-substring-i) |
 ## String
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sibirajansibi/leetcode-journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3719-longest-balanced-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
