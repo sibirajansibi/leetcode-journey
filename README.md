@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sibirajansibi/leetcode-journey/tree/master/0061-rotate-list) |
 | [0705-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0705-design-hashset) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 ## Two Pointers
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sibirajansibi/leetcode-journey/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
