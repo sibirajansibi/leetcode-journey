@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/sibirajansibi/leetcode-journey/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sibirajansibi/leetcode-journey/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0866-prime-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
