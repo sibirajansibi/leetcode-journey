@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
+| [1695-maximum-erasure-value](https://github.com/sibirajansibi/leetcode-journey/tree/master/1695-maximum-erasure-value) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1975-maximum-matrix-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
+| [1695-maximum-erasure-value](https://github.com/sibirajansibi/leetcode-journey/tree/master/1695-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sibirajansibi/leetcode-journey/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/sibirajansibi/leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
+| [1695-maximum-erasure-value](https://github.com/sibirajansibi/leetcode-journey/tree/master/1695-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sibirajansibi/leetcode-journey/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Bit Manipulation
 |  |
