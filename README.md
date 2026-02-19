@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/sibirajansibi/leetcode-journey/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sibirajansibi/leetcode-journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sibirajansibi/leetcode-journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sibirajansibi/leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2502-design-memory-allocator](https://github.com/sibirajansibi/leetcode-journey/tree/master/2502-design-memory-allocator) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3552-grid-teleportation-traversal](https://github.com/sibirajansibi/leetcode-journey/tree/master/3552-grid-teleportation-traversal) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sibirajansibi/leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/3791-fruits-into-baskets-iii) |
 ## Tree
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [1845-seat-reservation-manager](https://github.com/sibirajansibi/leetcode-journey/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sibirajansibi/leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/sibirajansibi/leetcode-journey/tree/master/1603-design-parking-system) |
 | [1845-seat-reservation-manager](https://github.com/sibirajansibi/leetcode-journey/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/sibirajansibi/leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2502-design-memory-allocator](https://github.com/sibirajansibi/leetcode-journey/tree/master/2502-design-memory-allocator) |
 ## Breadth-First Search
 |  |
