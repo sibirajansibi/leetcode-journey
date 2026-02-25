@@ -1,34 +1,26 @@
 class Solution {
-    private boolean flag;
-    private boolean[] visited;
-    public boolean canVisitAllRooms(List<List<Integer>> rooms){
-        List<Integer> list = rooms.get(0);
-        visited = new boolean[rooms.size()];
-        visited[0] = true;
-          for(int nei : list){   // [ 1 , 3]
-             solver(nei, rooms, visited);  // ( 1, r ,v)
-          }
-          System.out.print(Arrays.toString(visited));
+    public static void dfs(List<List<Integer>> rooms, int start, int[] vis){
 
-          for(int i =0;i< visited.length;i++){
-            if(!visited[i]){
-                 return false;
+        vis[start] = 1;
+        for(int nei : rooms.get(start)){
+            if(vis[nei] == 0){
+                 dfs(rooms , nei , vis);
             }
-          }
-          
-         
-        return true;
-    }
-    public static void solver(int start, List<List<Integer>> rooms, boolean[]visited){
-                 
-                 visited[start] = true;
-               for(int nei : rooms.get(start)){   // 1->[3, 0 , 1] 3 -> []
-                if(!visited[nei]){ // 3
-                   
-                     solver(nei, rooms, visited);
-                }
-               }
+        }
 
     }
-   
+    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+      
+      int[] vis = new int[rooms.size()];
+
+    dfs(rooms , 0 , vis);
+
+    for(int num : vis){
+        if(num == 0){
+            return false;
+        }
+    }
+
+       return true; 
+    }
 }
