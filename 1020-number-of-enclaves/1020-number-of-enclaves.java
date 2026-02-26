@@ -2,16 +2,17 @@ class Solution {
     private char[][] marking;
     private boolean[][] visited;
         private boolean[][] visit;
+        private int count;
     public int numEnclaves(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
         visited = new boolean[n][m];
          visit = new boolean[n][m];
         marking  = new char[n][m];
-       int count = 0;
+        count = 0;
         for(int i =0;i < n;i++){
             for(int j = 0;j< m;j++){
-                marking[i][j] = '-';
+                marking[i][j] = '#';
             }
         }
 
@@ -23,10 +24,16 @@ class Solution {
             }
         }
              // Java example
-    
+             for(int i =0;i < n;i++){
+            for(int j = 0;j< m;j++){
+               System.out.print(marking[i][j]+" ");
+            }
+            System.out.println();
+        }
+        int count =0;
         for(int i =0;i < n;i++){
             for(int j =0;j < m;j++){
-               if( grid[i][j] == 1){
+               if( grid[i][j] == 1 && marking[i][j] !='*'){
                    count++;
                }
             }
@@ -36,10 +43,11 @@ class Solution {
         return count;
     }
     public void BoundDfs(int i , int j ,int[][] grid){
-        if(i < 0 || j < 0 || i>= grid.length || j >= grid[0].length || grid[i][j] == 0){
+        if(i < 0 || j < 0 || i>= grid.length || j >= grid[0].length || grid[i][j] == 0 || visited[i][j]){
             return;
         }
-        grid[i][j] = 0;
+        visited[i][j] = true;
+        marking[i][j] = '*';
         BoundDfs(i+1, j, grid);
         BoundDfs(i ,  j+1, grid);
         BoundDfs(i-1, j, grid);
