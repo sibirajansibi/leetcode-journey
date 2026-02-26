@@ -3,7 +3,7 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        // Step 1: Remove boundary-connected land
+
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if((i == 0 || j == 0 || i == n-1 || j == m-1) && grid[i][j] == 1) {
@@ -12,7 +12,7 @@ class Solution {
             }
         }
 
-        // Step 2: Count remaining land
+       
         int count = 0;
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
