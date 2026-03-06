@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/sibirajansibi/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sibirajansibi/leetcode-journey/tree/master/0383-ransom-note) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/sibirajansibi/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/sibirajansibi/leetcode-journey/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sibirajansibi/leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
