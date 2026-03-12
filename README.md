@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
 | [0866-prime-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/0866-prime-palindrome) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sibirajansibi/leetcode-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/sibirajansibi/leetcode-journey/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sibirajansibi/leetcode-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
