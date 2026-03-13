@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1677-matrix-diagonal-sum) |
 | [1695-maximum-erasure-value](https://github.com/sibirajansibi/leetcode-journey/tree/master/1695-maximum-erasure-value) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sibirajansibi/leetcode-journey/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sibirajansibi/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/sibirajansibi/leetcode-journey/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sibirajansibi/leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/sibirajansibi/leetcode-journey/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1678-goal-parser-interpretation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sibirajansibi/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/sibirajansibi/leetcode-journey/tree/master/1970-sorting-the-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sibirajansibi/leetcode-journey/tree/master/2190-count-common-words-with-one-occurrence) |
