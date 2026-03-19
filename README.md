@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sibirajansibi/leetcode-journey/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/sibirajansibi/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sibirajansibi/leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/sibirajansibi/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sibirajansibi/leetcode-journey/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/sibirajansibi/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/sibirajansibi/leetcode-journey/tree/master/0419-battleships-in-a-board) |
 | [0971-shortest-bridge](https://github.com/sibirajansibi/leetcode-journey/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0994-rotting-oranges) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sibirajansibi/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/sibirajansibi/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sibirajansibi/leetcode-journey/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sibirajansibi/leetcode-journey/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sibirajansibi/leetcode-journey/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/sibirajansibi/leetcode-journey/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sibirajansibi/leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
