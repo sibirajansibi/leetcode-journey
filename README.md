@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sibirajansibi/leetcode-journey/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sibirajansibi/leetcode-journey/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/sibirajansibi/leetcode-journey/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/sibirajansibi/leetcode-journey/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sibirajansibi/leetcode-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
