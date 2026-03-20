@@ -40,12 +40,6 @@ int max = Integer.MIN_VALUE;
         List<Map.Entry<Integer , Integer>> list = new ArrayList<>(map.entrySet());
         list.sort(( a, b) -> b.getValue() - a.getValue());
      
-        System.out.print(map);
-        for(int num : map.keySet()){
-              if(map.get(num) == max){
-            return num;
-              }
-        }
-        return -1;
+      return list.get(0).getKey();
     }
 }
