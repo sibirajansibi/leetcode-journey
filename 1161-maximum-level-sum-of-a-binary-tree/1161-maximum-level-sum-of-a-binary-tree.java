@@ -12,34 +12,41 @@
  *         this.right = right;
  *     }
  * }
- */
+ */import java.util.*;
+
 class Solution {
     public int maxLevelSum(TreeNode root) {
+        if (root == null) return 0;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        Queue<TreeNode> Q = new LinkedList<>();
-        Q.offer(root);
-int level = 1;
-int max = Integer.MIN_VALUE;
-        while(!Q.isEmpty()){
-           int size = Q.size();
-           int sum =0;
-          for(int i =0; i < size;i++){
-            TreeNode node = Q.poll();
-            sum += node.val;
-            if(node.left != null){
-                Q.offer(node.left);
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        int level = 1;
+        int maxLevel = 1;
+        int maxSum = Integer.MIN_VALUE;
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            int levelSum = 0;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+                levelSum += node.val;
+
+                if (node.left != null)
+                    queue.offer(node.left);
+                if (node.right != null)
+                    queue.offer(node.right);
             }
-             if(node.right != null){
-                Q.offer(node.right);
+
+            if (levelSum > maxSum) {
+                maxSum = levelSum;
+                maxLevel = level;
             }
-          }
-          max = Math.max( max , sum);
-          map.put(level++, sum);
+
+            level++;
         }
-        List<Map.Entry<Integer , Integer>> list = new ArrayList<>(map.entrySet());
-        list.sort(( a, b) -> b.getValue() - a.getValue());
-     
-      return list.get(0).getKey();
+
+        return maxLevel;
     }
 }
