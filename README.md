@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sibirajansibi/leetcode-journey/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sibirajansibi/leetcode-journey/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/sibirajansibi/leetcode-journey/tree/master/0274-h-index) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sibirajansibi/leetcode-journey/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/sibirajansibi/leetcode-journey/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -456,12 +458,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sibirajansibi/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sibirajansibi/leetcode-journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3719-longest-balanced-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [1845-seat-reservation-manager](https://github.com/sibirajansibi/leetcode-journey/tree/master/1845-seat-reservation-manager) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sibirajansibi/leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sibirajansibi/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
