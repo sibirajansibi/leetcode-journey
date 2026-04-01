@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sibirajansibi/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0705-design-hashset) |
+| [0745-prefix-and-suffix-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0745-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-boats-to-save-people) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/sibirajansibi/leetcode-journey/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0705-design-hashset) |
+| [0745-prefix-and-suffix-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0745-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0816-design-hashset) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/sibirajansibi/leetcode-journey/tree/master/0940-fruit-into-baskets) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/sibirajansibi/leetcode-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/sibirajansibi/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0745-prefix-and-suffix-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0745-prefix-and-suffix-search) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sibirajansibi/leetcode-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0886-score-of-parentheses](https://github.com/sibirajansibi/leetcode-journey/tree/master/0886-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/sibirajansibi/leetcode-journey/tree/master/0917-reverse-only-letters) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sibirajansibi/leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/sibirajansibi/leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0745-prefix-and-suffix-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0745-prefix-and-suffix-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/sibirajansibi/leetcode-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0705-design-hashset) |
+| [0745-prefix-and-suffix-search](https://github.com/sibirajansibi/leetcode-journey/tree/master/0745-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/sibirajansibi/leetcode-journey/tree/master/0816-design-hashset) |
 | [1470-tweet-counts-per-frequency](https://github.com/sibirajansibi/leetcode-journey/tree/master/1470-tweet-counts-per-frequency) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sibirajansibi/leetcode-journey/tree/master/1497-design-a-stack-with-increment-operation) |
