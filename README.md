@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sibirajansibi/leetcode-journey/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sibirajansibi/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sibirajansibi/leetcode-journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sibirajansibi/leetcode-journey/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/sibirajansibi/leetcode-journey/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/sibirajansibi/leetcode-journey/tree/master/0670-maximum-swap) |
